@@ -2,7 +2,7 @@
 
 Displays an icon in the system tray which indicates (!) whether the keyboard's Numlock, Capslock or ScrollLock are on.
 
-Useful for keyboards that don't have LEDs for any or all of those keys.
+Useful for keyboards that don't have LEDs for some or all of those keys.
 
 Shamelessly pinched from an AutoHotKey script of the same name.
 
