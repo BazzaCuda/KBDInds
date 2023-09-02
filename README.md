@@ -8,5 +8,5 @@ Shamelessly pinched from an AutoHotKey script of the same name.
 
 No licence restrictions. It's yours. Take it.
 
-If you need a build of this application, let me know in Discussions (https://github.com/BazzaCuda/KBDInds/discussions) and I'll happily provide one for you.
+If you need a build of this application, let me know in Discussions (https://github.com/BazzaCuda/KBDInds/discussions) and I'll happily provide one for you, Windows 32-bit or 64-bit.
  
